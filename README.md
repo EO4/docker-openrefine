@@ -4,7 +4,7 @@ Docker recipes for OpenRefine
 ## To Build
 
 ```
-docker build -t="eo4/openrefine:2.8" https://github.com/EO4/docker-openrefine/alpine-jre8-openrefine
+docker build -t="eo4/openrefine:2.8" https://github.com/EO4/docker-openrefine.git#master:alpine-jre8-openrefine
 ```
 
 ## To Run
